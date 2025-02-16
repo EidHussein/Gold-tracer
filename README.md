@@ -29,10 +29,15 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 ![IMG_2193.JPG](https://commons.wikimedia.org/wiki/File:Breakfast_2_2013-04-20_Stockholm.jpg)
 
+
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Breakfast_2_2013-04-20_Stockholm.jpg" width="300">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Breakfast_2_2013-04-20_Stockholm.jpg" width="1000">
+
+This is a picture of my own photoshooting since 2013. 
 
 This is how you create code examples:
 ```
@@ -74,5 +79,5 @@ How could your project grow and become something even more? What kind of skills,
 
 ## Acknowledgments
 
-  <br>For example: [Breakfast 2013-04-20 Stockholm by Hussein Eid 2025](https://upload.wikimedia.org/wikipedia/commons/0/0f/Breakfast_2_2013-04-20_Stockholm.jpg) / [commons.wikimedia.org](https://creativecommons.org/licenses/by-sa/4.0/))
+  <br> Resource and licens [Breakfast 2013-04-20 Stockholm by Hussein Eid 2025](https://upload.wikimedia.org/wikipedia/commons/0/0f/Breakfast_2_2013-04-20_Stockholm.jpg) / [commons.wikimedia.org](https://creativecommons.org/licenses/by-sa/4.0/))
 * etc
